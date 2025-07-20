@@ -5,8 +5,8 @@ import win32process
 import ctypes
 from ctypes import wintypes
 
-EXE_PATH = r"C:\Users\Kim\Desktop\kore3\Ragnarok\Ragexe.exe"
-IP = "172.65.205.60"
+EXE_PATH = r"C:\Seu\Caminho\Ragexe.exe"
+IP = "172.65.x.x"
 PORT = 6901
 
 # Windows API constants
