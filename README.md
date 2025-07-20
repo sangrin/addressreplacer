@@ -1,14 +1,13 @@
-﻿# Ragexe Address Replacer
+# Ragexe Address Replacer
 
-O script busca os endereços de memória que armazenam o hostname do servidor e substitui pelo IP:PORT informado.
+Este script busca os endereços de memória que armazenam o hostname do servidor e substitui pelo IP:PORT informado.
 
-Uso:
+## Uso
 
-Modifique o IP e a PORT para os valores desejados 
-Modifique o EXE_PATH para o diretório que contém o ragexe.exe
-Abra o terminal como administrador
-Execute:
-python .\ragexe-address-replacer-dynamic
-Siga as instruções que aparecem na tela
-
-
+1. **Modifique** o IP e a PORT para os valores desejados.
+2. **Modifique** o `EXE_PATH` para o diretório que contém o `ragexe.exe`.
+3. **Abra** o terminal como administrador.
+4. **Execute** o comando abaixo:
+   ```bash
+   python .\ragexe-address-replacer-dynamic
+5. **Siga** as instruções.
