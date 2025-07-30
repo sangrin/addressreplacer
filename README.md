@@ -8,6 +8,12 @@ Este script busca os endereços de memória que armazenam o hostname do servidor
 2. **Modifique** o `EXE_PATH` para o diretório que contém o `ragexe.exe`.
 3. **Abra** o terminal como administrador.
 4. **Execute** o comando abaixo:
-   ```bash
-   python .\ragexe-address-replacer-dynamic
+      ```bash
+       pip install -r requirements.txt
+   
+5. Seguido de:
+   
+      ```bash
+      python .\ragexe-address-replacer-dynamic
+
 5. **Siga** as instruções.
