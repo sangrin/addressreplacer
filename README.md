@@ -17,3 +17,5 @@ Este script busca os endereços de memória que armazenam o hostname do servidor
       python .\ragexe-address-replacer-dynamic
 
 5. **Siga** as instruções.
+
+Baseado em https://github.com/ghostring3418/ragexe-address-replacer
